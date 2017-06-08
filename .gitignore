@@ -10,7 +10,6 @@ Desktop.ini
 
 # Linux
 .directory
-*~
 
 
 # npm
@@ -29,7 +28,7 @@ benchmarks/graphs
 .idea
 *.iml
 
-.package-lock.json
+package-lock.json
 
 public/stylesheets/*.css
 public/stylesheets/*.css.map
