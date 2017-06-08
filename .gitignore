@@ -28,3 +28,8 @@ benchmarks/graphs
 # IntelliJ
 .idea
 *.iml
+
+.package-lock.json
+
+public/stylesheets/*.css
+public/stylesheets/*.css.map
